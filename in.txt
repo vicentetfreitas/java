@@ -1,0 +1,5 @@
+Good Morning
+Good evening
+Esse é um exemplo básico 
+de como trabalhar com arquivos
+txt.
