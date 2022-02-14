@@ -5,3 +5,11 @@
   <li><p>Realizar uma entrada no estoque e mostrar novamente os dados do produto</p></li>
   <li><p>Realizar uma saída no estoque e mostrar novamente os dados do produto</p></li>
 </ul>
+<h2>Discussão</h2>
+<p>Toda classe em Java é uma subclasse da classe Object</p>
+<ul>
+<li><p>getClass - retorna o tipo do objeto</p></li>
+<li><p>equals - compara se o objeto é iqual a outro</p></li>
+<li><p>hashCode - retorna um código hash do objeto</p></li>
+<li><p>toString - converte o objeto para string</p></li>
+</ul>
